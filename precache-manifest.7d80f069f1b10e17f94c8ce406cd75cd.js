@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be03b2a9ac88d4b8ad9b5292161badef",
+    "revision": "2853d9a22e8bc8459c41701877e22a5d",
     "url": "/index.html"
   },
   {
-    "revision": "cd9a59ef4aeea45af2c9",
-    "url": "/static/css/main.88d9abc0.chunk.css"
+    "revision": "ed12ba5e3df48ec1f27d",
+    "url": "/static/css/main.85cba5b5.chunk.css"
   },
   {
-    "revision": "9a263f2037f08e62d9c8",
-    "url": "/static/js/2.32fc0ea6.chunk.js"
+    "revision": "b5bd551d97d6626f5b7e",
+    "url": "/static/js/2.ac62b37e.chunk.js"
   },
   {
-    "revision": "cd9a59ef4aeea45af2c9",
-    "url": "/static/js/main.6f3f6989.chunk.js"
+    "revision": "ed12ba5e3df48ec1f27d",
+    "url": "/static/js/main.a00942e6.chunk.js"
   },
   {
     "revision": "475989f7ab49b3903971",
@@ -36,12 +36,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/facebook.283b2595.svg"
   },
   {
+    "revision": "6e50186f9ea6f6e88d99ed24a52815a5",
+    "url": "/static/media/gadget.6e50186f.svg"
+  },
+  {
     "revision": "5a84a9749f010452bbc15579eff0f947",
     "url": "/static/media/gmail.5a84a974.svg"
   },
   {
     "revision": "775a60929c30f992098081ffee7e1cdc",
     "url": "/static/media/grid.775a6092.svg"
+  },
+  {
+    "revision": "fe8488e78c251ed2905a595c1fe62e9f",
+    "url": "/static/media/gym.fe8488e7.svg"
+  },
+  {
+    "revision": "b19c287ad64547c1c94e6a3afd990731",
+    "url": "/static/media/headphones.b19c287a.svg"
   },
   {
     "revision": "6c9efe0c8c1fb630cd48d0381ece4297",
@@ -66,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fccd450e84714dad09e79ecdffcbb211",
     "url": "/static/media/scSmall.fccd450e.svg"
+  },
+  {
+    "revision": "6c8eb593673178df39a2c3aca44f5f81",
+    "url": "/static/media/suitcase.6c8eb593.svg"
   },
   {
     "revision": "2d3f44a1bd21333b9c03d2672719144b",
