@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.e7e736cc.chunk.css",
+    "main.css": "/static/css/main.43361411.chunk.css",
     "main.js": "/static/js/main.6f3f6989.chunk.js",
     "main.js.map": "/static/js/main.6f3f6989.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.26768bba.js",
@@ -8,9 +8,9 @@
     "static/js/2.32fc0ea6.chunk.js": "/static/js/2.32fc0ea6.chunk.js",
     "static/js/2.32fc0ea6.chunk.js.map": "/static/js/2.32fc0ea6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6ff26021d91f14387dbe348684e6ae41.js": "/precache-manifest.6ff26021d91f14387dbe348684e6ae41.js",
+    "precache-manifest.95e5cdfb6a17a93889f42ca5d50262a6.js": "/precache-manifest.95e5cdfb6a17a93889f42ca5d50262a6.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.e7e736cc.chunk.css.map": "/static/css/main.e7e736cc.chunk.css.map",
+    "static/css/main.43361411.chunk.css.map": "/static/css/main.43361411.chunk.css.map",
     "static/media/agile.svg": "/static/media/agile.cd44d3ca.svg",
     "static/media/android.svg": "/static/media/android.139ea4cf.svg",
     "static/media/dashboard.svg": "/static/media/dashboard.81ec7201.svg",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.26768bba.js",
     "static/js/2.32fc0ea6.chunk.js",
-    "static/css/main.e7e736cc.chunk.css",
+    "static/css/main.43361411.chunk.css",
     "static/js/main.6f3f6989.chunk.js"
   ]
 }
